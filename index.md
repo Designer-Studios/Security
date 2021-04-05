@@ -23,17 +23,19 @@ assure that you are hacked due to this reason, chevk if you made your cursor or 
 have a sensitive mouse.
 
 
+#2 Microphone Or Camera: If you notice that your camera is on, check to see if any app is using your camera or microphone. If not, then most
+likely someone has control of your system.
+ 
 
+#3 Unknown Files: You might see files you don't remember seeing in your device. Check if you recently created a new file, If you
+didn't, you may have been hacked,
  
  
- 
- 
- 
- 
- 
- 
- # What If I Am Hacked?
- 
+
+
+# What If I Am Hacked?
+
+
 If you were hacked, then the best thing to do is disconnect from your home Wi-Fi Network. This way, the hacker cannot access your device since there is no internet
 to let the hacker go through. When you turn the Wi-Fi back on, you can do the follwoing:
 
@@ -72,7 +74,7 @@ Let's see:
 
 # Linux
 
-Linux has the best security out of all operating system, even more than MacOSs. That's a fact! If you are considering switching to Linux, you would have
+Linux has the best security out of all operating system, even more than MacOS's. That's a fact! If you are considering switching to Linux, you would have
 high built in security. You don't even have to install and Antivirus or Firewall.
 
 
@@ -111,7 +113,7 @@ a Firewall or Antivirus if you want excellent security. Otherwise, the security 
 
 If you are a Windows user, I highly reccomend that you use a security method. Windows doesn't have good security built in.
 Windows is not known well for security at all, so you better install a Firewall or use a VPN. If that doesn't work for
-you, find another methos because no security method on Windows isn't safe for your data at all.
+you, find another method because no security method on Windows isn't safe for your data at all.
 
 
 
