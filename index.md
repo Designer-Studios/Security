@@ -19,7 +19,7 @@ Ok, lets say you think that you are hacked and you are reading this so you can f
 Well, here we will be showing you signs that you are being hacked. 
 
 #1 Moving Cursor: If you're cursor is moving by itself then you are definitely being hacked, <strong>BUT WAIT!</strong> Before you
-assure that you are hacked due to this reason, chevk if you made your cursor or mouse move by itself accidentely. Maybe you just
+assure that you are hacked due to this reason, check if you made your cursor or mouse move by itself accidentely. Maybe you just
 have a sensitive mouse.
 
 
@@ -40,9 +40,13 @@ If you were hacked, then the best thing to do is disconnect from your home Wi-Fi
 to let the hacker go through. When you turn the Wi-Fi back on, you can do the follwoing:
 
 #1 Use VPN
+<br>
 #2 Install A Firewall
+<br>
 #3 Use A Good Antivirus
+<br>
 #4 Use Livepatch (Only For Linux Users)
+<br>
 #5 Try The Antivirus That Originally Came With Your Device
 
 
